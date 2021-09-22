@@ -86,7 +86,7 @@ if (a == 4) {
 }
 ```
 
-(3/5)
+(3/5) - correct structure, got a==2 and default case right
 
 ## QUESTION 1e
 Give the logic expression for each of the following post conditions:
