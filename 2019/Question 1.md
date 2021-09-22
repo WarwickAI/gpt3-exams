@@ -34,7 +34,10 @@ switch(x) {
 ### 1d i
 Rewrite the following loop into a while loop:
 int s = 0;
+
+```
 for (int i = 1; i <= 10; i++) s = s + i;?
+```
 
 ```Java
 int s = 0;
@@ -49,6 +52,8 @@ while (i <= 10) {
 
 ### 1d ii
 Rewrite the following loop into a while loop:
+
+```
 int n = 1;
 double x = 0;
 double s;
@@ -57,6 +62,7 @@ do {
 	x = x + s ;
 	n++ ;
 } while (s > 0.01);?
+```
 
 ```Java
 int n = 1;
