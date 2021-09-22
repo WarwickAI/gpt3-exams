@@ -1,4 +1,4 @@
-# Question 2 (15/20)
+# Question 2 (17/20)
 
 ## Question 2a
 2a Using iterative statements, write code to calculate the result of the following formula:
