@@ -76,7 +76,7 @@ public class Set<T> {
 }
 ```
 
-(6/6)
+(0/6)
 
 ## QUESTION 5c
 5c We wish to use the Set class to store Employee objects from question 4. Demonstrate how we would achieve this?
