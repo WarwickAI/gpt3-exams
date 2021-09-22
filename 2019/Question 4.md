@@ -1,9 +1,11 @@
 # Question 4 (10/20) or (12/20)
-### 4a
+## QUESTION 4a
 Explain the need for constructors in a class definition. When do we not need constructors?
 
+### ANSWER
 ```
-Constructors are used to initialize the instance variables of a class. Constructors are called when an object of a class is created.
+Constructors are used to initialize the instance variables of a class.
+Constructors are called when an object of a class is created.
 If a class does not contain a constructor, then the compiler will generate a default constructor.
 ```
 
@@ -12,24 +14,30 @@ If a class does not contain a constructor, then the compiler will generate a def
 With $T=0.4$ and $n=2$, we get:
 
 ```
-Constructors are called when an object is created. It is used to initialize the instance variables of the class. We do not need constructors when we do not need to initialize the instance variables of the class.
+Constructors are called when an object is created. 
+It is used to initialize the instance variables of the class. 
+We do not need constructors when we do not need to initialize the instance variables of the class.
 ```
 
 (3/4)
 
-### 4b
+## QUESTION 4b
 Explain inheritance of constructs from parent class to child class. What is the reason we use super in Java?
 
+### ANSWER
 ```
-Inheritance is a feature of object-oriented programming in which a class inherits the members of another class. The members of the parent class are inherited by the child class. The child class can access all the members of the parent class.
+Inheritance is a feature of object-oriented programming in which a class inherits the members of another class. 
+The members of the parent class are inherited by the child class. 
+The child class can access all the members of the parent class.
 The super keyword is used to call the constructor of the parent class.
 ```
 
 (3/4)
 
-### 4c
+## QUESTION 4c
 You are asked to design an application where users can create new money pots and add money into any pot, but only users who enter a passcode generated when a pot is created can view and reduce the balance stored in any particular pot. (Assume very simple security: the passcode is a short integer and a simple check suffices.) Write down the classes, methods and data fields needed, to ensure security. You do not need to code the methods in detail?
 
+### ANSWER
 ```Java
 class MoneyPot {
     private int balance;
