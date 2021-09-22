@@ -1,9 +1,11 @@
 # Question 2 (15/20)
-### 2a
+
+## Question 2a
 2a Using iterative statements, write code to calculate the result of the following formula:
 
 (\sum_{x=30}^{70}{x^2 + 2}) / 5?
 
+### ANSWER
 ```Java
 int result = 0;
 for (int i = 30; i <= 70; i++) {
@@ -14,9 +16,10 @@ result /= 5;
 
 (5/5) - Formatting in latex helps
 
-### 2b
+## Question 2b
 2b Write a method that, when given an integer value, returns whether the value is a prime number or not?
 
+### ANSWER
 ```Java
 public boolean isPrime(int n) {
     if (n < 2) {
@@ -33,9 +36,10 @@ public boolean isPrime(int n) {
 
 (5/5)
 
-### 2c
+## Question 2c
 2c Using your previous answer to 2b, write code that returns an array filled with the first 30 prime numbers?
 
+### ANSWER
 ```Java
 public int[] getPrimes(int n) {
     int[] primes = new int[n];
@@ -54,7 +58,7 @@ public int[] getPrimes(int n) {
 
 (2/6) - n prime numbers instead of 30
 
-### 2d
+## Question 2d
 2d Rewrite the following for loop as a while loop:
 
 int total = 0; 
@@ -63,6 +67,7 @@ for (int i = 0; i < 100; i+=2) {
 	if (total > 75) { break; } 
 }?
 
+### ANSWER
 ```Java
 int total = 0; 
 int i = 0; 
@@ -75,9 +80,10 @@ while (i < 100) {
 
 (3/3)
 
-### 2e
+## Question 2e
 2e Can the loop in 2d be written recursively? Justify your answer?
 
+### ANSWER
 ```
 No, because the loop in 7d is not tail recursive.
 ```
