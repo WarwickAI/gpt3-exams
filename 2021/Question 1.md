@@ -86,7 +86,7 @@ if (a == 4) {
 }
 ```
 
-(0/5)
+(3/5)
 
 ## QUESTION 1e
 Give the logic expression for each of the following post conditions:
