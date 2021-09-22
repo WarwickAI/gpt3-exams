@@ -7,12 +7,12 @@ Explain what is meant by generics and how they can be used in a program. Generic
 Generics are used to create generic classes and methods. A generic class is a class that can be parameterized to accept multiple types. A generic method is a method that can be parameterized to accept multiple types.
 ```
 
-(1/10)
+(2/10)
 
 ### 5b
 Consider the code below that uses exceptions:
 
-```
+```Java
 try {
 	for (int x = 4; x >= 0; x--) {
 		int y = 5 / x;
