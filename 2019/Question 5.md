@@ -5,7 +5,9 @@ Explain what is meant by generics and how they can be used in a program. Generic
 
 ### ANSWER
 ```
-Generics are used to create generic classes and methods. A generic class is a class that can be parameterized to accept multiple types. A generic method is a method that can be parameterized to accept multiple types.
+Generics are used to create generic classes and methods.
+A generic class is a class that can be parameterized to accept multiple types. 
+A generic method is a method that can be parameterized to accept multiple types.
 ```
 
 (2/10)
