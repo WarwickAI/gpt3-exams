@@ -229,7 +229,7 @@ public class User {
 }
 ```
 
-(2/2) - I don't see how this is two marks so maybe it's wrong
+(1/2) - Defined team twice but did get and set
 
 ## QUESTION 3f
 If a user is in a team, their score is actually the sum of the team’s best score for each task. 
