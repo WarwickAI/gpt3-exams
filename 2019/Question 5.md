@@ -1,4 +1,4 @@
-# Question 5 (6/20)
+# Question 5 (7/20)
 
 ### 5a
 Explain what is meant by generics and how they can be used in a program. Generics have been added to Java quite recently; explain how you could implement the functionality of generics in Java while avoiding using generics explicitly, using a linked list as an example?
