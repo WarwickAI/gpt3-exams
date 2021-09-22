@@ -1,4 +1,4 @@
-# Question 4 (8/20) or (11/20)
+# Question 4 (10/20) or (12/20)
 ### 4a
 Explain the need for constructors in a class definition. When do we not need constructors?
 
@@ -25,7 +25,7 @@ Inheritance is a feature of object-oriented programming in which a class inherit
 The super keyword is used to call the constructor of the parent class.
 ```
 
-(1/4) - Didn't explain inheritance of constructs
+(3/4)
 
 ### 4c
 You are asked to design an application where users can create new money pots and add money into any pot, but only users who enter a passcode generated when a pot is created can view and reduce the balance stored in any particular pot. (Assume very simple security: the passcode is a short integer and a simple check suffices.) Write down the classes, methods and data fields needed, to ensure security. You do not need to code the methods in detail?
@@ -75,7 +75,7 @@ class User {
 }
 ```
 
-(6/12) - Codex does not like to give short answers. Missing method on User to create MoneyPot object. MoneyPot has no getPasscode() method. Passcode should be generated rather than given. MoneyPot object checks for passcode too much.
+(6/12) - Codex does not like to give short answers. Missing method on User to create MoneyPot object. MoneyPot has no getPasscode() method. Passcode should be generated rather than given. MoneyPot object checks for passcode too much. getBalance() has no password check, password checking is wrong in MoneyPot
 
 With $T=0.4$ and $n=4$:
 
