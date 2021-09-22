@@ -87,7 +87,7 @@ while (i < 100) {
 
 ### ANSWER
 ```
-No, because the loop in 7d is not tail recursive.
+No, because the loop in 2d is not tail recursive.
 ```
 
 (0/1)
