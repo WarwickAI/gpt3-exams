@@ -9,7 +9,7 @@ Protected members can be accessed by subclasses of the class in which the member
 Private members can be accessed only within the class in which they are defined.
 ```
 
-(1/4) - Did not discuss when you would use one rather than the other.
+(2/4) - Did not discuss when you would use one rather than the other.
 
 I prompted after the response with ```You would use protected rather than private when``` and ```You would use private rather than protected when you want``` to obtain the following:
 
@@ -18,7 +18,7 @@ You would use protected rather than private when you want to allow access to a c
 You would use private rather than protected when you want to ensure that the class cannot be instantiated.
 ```
 
-(2/4) - Still doesn't have exhaustive answer for protected vs. private
+(3/4) - Still doesn't have exhaustive answer for protected vs. private
 
 ### 3b
 For the following pair, explain similarities and differences between them, and discuss when you would use one rather than the other:
@@ -28,7 +28,7 @@ interfaces and abstract classes?
 Both interfaces and abstract classes are used to define a contract. An interface is a set of methods that a class must implement. An abstract class is a class that can't be instantiated. You would use interfaces rather than abstract classes when you want to define a contract. You would use abstract classes rather than interfaces when you want to define a contract and also want to provide some implementation.
 ```
 
-(2/4)
+(4/4)
 
 ### 3c
 For the following pair, explain similarities and differences between them, and discuss when you would use one rather than the other:
@@ -38,7 +38,7 @@ static and non-static?
 A static method is a method that is bound to the class rather than to an object of the class. A non-static method is a method that is bound to the object. You would use static methods when you want to define a method that doesn't need to access any instance variables. You would use non-static methods when you want to define a method that needs to access instance variables.
 ```
 
-(1/4)
+(4/4)
 
 ### 3d
 For the following pair, explain similarities and differences between them, and discuss when you would use one rather than the other:
@@ -58,4 +58,4 @@ array declaration and array creation?
 Array declaration is a way to declare an array and initialize it with a value. Array creation is a way to create an array and initialize it with a value. You would use array declaration when you want to declare an array and initialize it with a value. You would use array creation when you want to create an array and initialize it with a value.
 ```
 
-(?/4)
+(1/4)
