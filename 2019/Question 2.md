@@ -18,7 +18,7 @@ The scope of variable j is not specified.
 The scope of variable s is not specified.
 ```
 
-(0/6) - Codex isn't great at identifying syntax errors in code
+(0/6) - Codex isn't great at identifying syntax errors in code, likely because there weren't many examples in the 2017 paper
 
 ### 2b
 2b After fixing the syntax of the code from 2a, if you run it you will see that there is a logical error, in that it does not run correctly or results in a runtime error. Identify the error and provide a fix for it?
