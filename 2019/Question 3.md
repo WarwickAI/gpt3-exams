@@ -1,4 +1,4 @@
-# Question 3 (16/20)
+# Question 3 (15/20) or (16/20)
 ### 3a
 For the following pair, explain similarities and differences between them, and discuss when you would use one rather than the other:
 protected and private data fields?
