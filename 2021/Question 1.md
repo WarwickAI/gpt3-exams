@@ -1,4 +1,4 @@
-# Question 1 (2/20)
+# Question 1 (5/20)
 ## QUESTION 1a i
 Java can convert variables between various types using typecasts. For the following type conversion, write Java code that would perform it, and state if is it an implicit or explicit typecast. 
 int -> byte?
