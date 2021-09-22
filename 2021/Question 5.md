@@ -28,7 +28,7 @@ public static float divide(float x, float y) {
 }
 ```
 
-(3/4) - static method?
+(4/4) - static method?
 
 ## QUESTION 5a iii
 Write a code example to demonstrate how you would use the method from 5aii in a Java application?
