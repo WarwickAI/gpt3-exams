@@ -1,4 +1,4 @@
-# Question 3 (15/20) or (16/20)
+# Question 3 (14/20) or (15/20)
 ## QUESTION 3a
 For the following pair, explain similarities and differences between them, and discuss when you would use one rather than the other:
 protected and private data fields?
@@ -62,7 +62,7 @@ You would use overloading instead of overriding when you want to provide more th
 You would use overriding instead of overloading when you want to provide only one implementation of a method.
 ```
 
-(4/4)
+(3/4) - similarities not explicitly defined
 
 ## QUESTION 3e
 For the following pair, explain similarities and differences between them, and discuss when you would use one rather than the other:
@@ -70,7 +70,10 @@ array declaration and array creation?
 
 ### ANSWER
 ```
-Array declaration is a way to declare an array and initialize it with a value. Array creation is a way to create an array and initialize it with a value. You would use array declaration when you want to declare an array and initialize it with a value. You would use array creation when you want to create an array and initialize it with a value.
+Array declaration is a way to declare an array and initialize it with a value. 
+Array creation is a way to create an array and initialize it with a value.
+You would use array declaration when you want to declare an array and initialize it with a value. 
+You would use array creation when you want to create an array and initialize it with a value.
 ```
 
 (1/4)
