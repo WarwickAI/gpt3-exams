@@ -37,7 +37,7 @@ The return value is not specified.
 The return value should be a boolean.
 ```
 
-(0/6) - Interestingly Codex did add "int j = ..." and replaced "=" with "==" in the while loop, so it can identify the syntax errors if prompted correctly
+(0/6) - Interestingly Codex did add "int j = ..." and replaced "=" with "==" in the while loop, so it can identify some syntax errors if prompted correctly
 
 ## QUESTION 2c
 2c Write an alternative, recursive method to check for palindromes?
@@ -53,4 +53,4 @@ boolean isPalindrome(String s) {
 }
 ```
 
-(8/8)
+(8/8) - lgtm
