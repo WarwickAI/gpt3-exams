@@ -1,12 +1,15 @@
 # Question 2 (8/20)
 ### 2a
 2a Consider the following method written to determine whether its String parameter is a palindrome, that is it is identical when read left-to-right and right-to-left:
+
+```Java
 boolean isPalindrome(String s) {
     int i = 0;
     j = s.length - 1;
     while (i != j && s.charAt(i) = s.charAt(j)) {
         i++;    j--;    }
         return (i == j);    }
+```
 Unfortunately the code does not compile. Identify and fix three syntax errors that prevent the code from compiling?
 
 ```
