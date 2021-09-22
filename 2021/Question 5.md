@@ -1,10 +1,10 @@
 # Question 5 (12/20)
-### QUESTION 5a i
+## QUESTION 5a i
 In Java, erroneous behaviour often results in an Exception being generated. An Exception allows a programmer an opportunity to handle errors gracefully and possibly take corrective measures.
 
 Performing a division by zero in Java causes an exception when dealing with integer division. However, for floating point numbers, the special value “Inf” is returned and no exception is raised. Write a checked exception class that will be raised when a floating point division by zero is about to occur?
 
-## ANSWER
+### ANSWER
 ```Java
 public class DivideByZeroException extends Exception {
     public DivideByZeroException() {
