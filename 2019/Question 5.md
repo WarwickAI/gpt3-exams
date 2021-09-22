@@ -11,6 +11,8 @@ Generics are used to create generic classes and methods. A generic class is a cl
 
 ### 5b
 Consider the code below that uses exceptions:
+
+```
 try {
 	for (int x = 4; x >= 0; x--) {
 		int y = 5 / x;
@@ -23,6 +25,8 @@ catch (Exception  e) {
 	System.out.println("B");
 }
 System.out.println("C");
+```
+
 Describe what happens when the code is run and show the output from running this program?
 
 ```
