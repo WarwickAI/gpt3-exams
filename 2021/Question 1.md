@@ -36,7 +36,7 @@ calculate the decimal value of number 101101100100?
 
 ### 1c
 The following code runs, but is not correct. Instead of returning the minimum value it will often either not finish or produce a runtime error. 
-
+```
 public void findMinimum(int[] arr) { 
 	int x = 0 
 	int min = Integer.MAX_VALUE; 
@@ -47,6 +47,7 @@ public void findMinimum(int[] arr) {
 	} 
 	return min; 
 }
+```
 Explain the issues with the code, and re-write it so that it works as expected?
 
 ```
