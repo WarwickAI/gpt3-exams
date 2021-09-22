@@ -61,11 +61,13 @@ public int[] getPrimes(int n) {
 ## Question 2d
 2d Rewrite the following for loop as a while loop:
 
+```
 int total = 0; 
 for (int i = 0; i < 100; i+=2) { 
 	total = total + (i * Math.random() * Math.random()); 
 	if (total > 75) { break; } 
 }?
+```
 
 ### ANSWER
 ```Java
