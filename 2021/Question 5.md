@@ -1,4 +1,4 @@
-# Question 5 (12/20)
+# Question 5 (13/20)
 ## QUESTION 5a i
 In Java, erroneous behaviour often results in an Exception being generated. An Exception allows a programmer an opportunity to handle errors gracefully and possibly take corrective measures.
 
