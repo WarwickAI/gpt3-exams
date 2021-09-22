@@ -1,4 +1,4 @@
-# Question 3 (11/20)
+# Question 3 (10/20)
 
 ## QUESTION 3a
 You are helping to code a leader-board for a local Hack-a-thon. Users complete tasks, earn a score and their cumulative score from each task determines their position on the leaderboard. If they do particularly poorly, they can earn a negative score in some tasks, and so a User can have a negative score overall. A User is defined by a name, unique ID number and a score. The ID number is 8 characters long, and can contain both letters and numbers. Users can enter anonymously, in which case they will be given the same name as their ID number. When a User enters the competition, they start with a score of 0. Names and ID numbers cannot change.
