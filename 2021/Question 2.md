@@ -56,7 +56,7 @@ public int[] getPrimes(int n) {
 }
 ```
 
-(2/6) - n prime numbers instead of 30
+(4/6) - n prime numbers instead of 30
 
 ## Question 2d
 2d Rewrite the following for loop as a while loop:
